@@ -1,4 +1,4 @@
-<img src="web_development.gif" alt="Demo GIF" height="200" width="800" align="center">
+<img src="assests/web_development.gif" alt="Demo GIF" height="200" width="800" align="center">
 
 <br>
 <br>
@@ -78,7 +78,7 @@
 <br>
 
 <p align="center">
-  <img src="code.gif" alt="Developer at work" width="500"/>
+  <img src="assests/code.gif" alt="Developer at work" width="500"/>
 </p>
 
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
