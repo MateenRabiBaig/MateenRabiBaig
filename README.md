@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assests/mario.gif" alt="Demo GIF" height="200" width="800" align="center">
+  <img src="assests/mario.gif" alt="Demo GIF" height="400" width="1200" align="center">
 </p>
 
 <br>
