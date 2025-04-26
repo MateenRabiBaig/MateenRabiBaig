@@ -1,4 +1,6 @@
-<img src="assests/web_development.gif" alt="Demo GIF" height="200" width="800" align="center">
+<p align="center">
+  <img src="assests/mario.gif" alt="Demo GIF" height="200" width="800" align="center">
+</p>
 
 <br>
 <br>
