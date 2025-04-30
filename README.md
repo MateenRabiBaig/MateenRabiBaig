@@ -68,6 +68,10 @@
 
 ## 📫 Let's Connect
 
+<a href="https://mateenrabibaig.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-6f42c1?style=flat&logo=firefox&logoColor=white&labelColor=181717" height="30" width="120" alt="Portfolio Badge">
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/mateenrabibaig" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=181717" height="30" width="120" alt="LinkedIn Badge">
 </a>
