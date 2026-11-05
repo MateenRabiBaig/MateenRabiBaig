@@ -25,30 +25,30 @@ I'm an **Associate Software Engineer** with about a year of production experienc
 
 ### Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-353333?style=flat&logo=python&logoColor=FFFFFF&labelColor=3776AB" alt="Python" height="48" />
-  <img src="https://img.shields.io/badge/-TypeScript-353333?style=flat&logo=typescript&logoColor=FFFFFF&labelColor=3178C6" alt="TypeScript" height="48" />
-  <img src="https://img.shields.io/badge/-JavaScript-353333?style=flat&logo=javascript&logoColor=FFFFFF&labelColor=F7DF1E" alt="JavaScript" height="48" />
-  <img src="https://img.shields.io/badge/-Java-353333?style=flat&logo=openjdk&logoColor=FFFFFF&labelColor=FF6F00" alt="Java" height="48" />
-  <img src="https://img.shields.io/badge/-C-353333?style=flat&logo=c&logoColor=FFFFFF&labelColor=00599C" alt="C" height="48" />
-  <img src="https://img.shields.io/badge/-SQL-353333?style=flat&logo=postgresql&logoColor=FFFFFF&labelColor=4479A1" alt="SQL" height="48" />
-  <img src="https://img.shields.io/badge/-HTML5-353333?style=flat&logo=html5&logoColor=FFFFFF&labelColor=E34F26" alt="HTML5" height="48" />
-  <img src="https://img.shields.io/badge/-CSS3-353333?style=flat&logo=css3&logoColor=FFFFFF&labelColor=2965F1" alt="CSS3" height="48" />
+  <img src="https://img.shields.io/badge/-Python-353333?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/-TypeScript-353333?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-JavaScript-353333?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Java-353333?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&labelColor=FF6F00" alt="Java" />
+  <img src="https://img.shields.io/badge/-C-353333?style=for-the-badge&logo=c&logoColor=FFFFFF&labelColor=00599C" alt="C" />
+  <img src="https://img.shields.io/badge/-SQL-353333?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=4479A1" alt="SQL" />
+  <img src="https://img.shields.io/badge/-HTML5-353333?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-353333?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=2965F1" alt="CSS3" />
 </p>
 
 ### Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-353333?style=flat&logo=react&logoColor=FFFFFF&labelColor=61DAFB" alt="React" height="48" />
-  <img src="https://img.shields.io/badge/-React_Native-353333?style=flat&logo=react&logoColor=FFFFFF&labelColor=61DAFB" alt="React Native" height="48" />
-  <img src="https://img.shields.io/badge/-Redux_Toolkit-353333?style=flat&logo=redux&logoColor=FFFFFF&labelColor=764ABC" alt="Redux Toolkit" height="48" />
-  <img src="https://img.shields.io/badge/-Zustand-353333?style=flat&logoColor=FFFFFF&labelColor=443E38" alt="Zustand" height="48" />
-  <img src="https://img.shields.io/badge/-TanStack_Query-353333?style=flat&logo=reactquery&logoColor=FFFFFF&labelColor=FF4154" alt="TanStack Query" height="48" />
-  <img src="https://img.shields.io/badge/-React_Hook_Form-353333?style=flat&logo=reacthookform&logoColor=FFFFFF&labelColor=EC5990" alt="React Hook Form" height="48" />
-  <img src="https://img.shields.io/badge/-Zod-353333?style=flat&logo=zod&logoColor=FFFFFF&labelColor=3068B7" alt="Zod" height="48" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-353333?style=flat&logo=tailwindcss&logoColor=FFFFFF&labelColor=06B6D4" alt="Tailwind CSS" height="48" />
-  <img src="https://img.shields.io/badge/-Bootstrap-353333?style=flat&logo=bootstrap&logoColor=FFFFFF&labelColor=563D7C" alt="Bootstrap" height="48" />
-  <img src="https://img.shields.io/badge/-Recharts-353333?style=flat&logoColor=FFFFFF&labelColor=8884D8" alt="Recharts" height="48" />
-  <img src="https://img.shields.io/badge/-Leaflet-353333?style=flat&logo=leaflet&logoColor=FFFFFF&labelColor=199900" alt="Leaflet" height="48" />
-  <img src="https://img.shields.io/badge/-Vite-353333?style=flat&logo=vite&logoColor=FFFFFF&labelColor=646CFF" alt="Vite" height="48" />
+  <img src="https://img.shields.io/badge/-React-353333?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/-React_Native-353333?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/-Redux_Toolkit-353333?style=for-the-badge&logo=redux&logoColor=FFFFFF&labelColor=764ABC" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/-Zustand-353333?style=for-the-badge&logoColor=FFFFFF&labelColor=443E38" alt="Zustand" />
+  <img src="https://img.shields.io/badge/-TanStack_Query-353333?style=for-the-badge&logo=reactquery&logoColor=FFFFFF&labelColor=FF4154" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/-React_Hook_Form-353333?style=for-the-badge&logo=reacthookform&logoColor=FFFFFF&labelColor=EC5990" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/-Zod-353333?style=for-the-badge&logo=zod&logoColor=FFFFFF&labelColor=3068B7" alt="Zod" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-353333?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&labelColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-Bootstrap-353333?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&labelColor=563D7C" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/-Recharts-353333?style=for-the-badge&logoColor=FFFFFF&labelColor=8884D8" alt="Recharts" />
+  <img src="https://img.shields.io/badge/-Leaflet-353333?style=for-the-badge&logo=leaflet&logoColor=FFFFFF&labelColor=199900" alt="Leaflet" />
+  <img src="https://img.shields.io/badge/-Vite-353333?style=for-the-badge&logo=vite&logoColor=FFFFFF&labelColor=646CFF" alt="Vite" />
 </p>
 
 ### Backend
